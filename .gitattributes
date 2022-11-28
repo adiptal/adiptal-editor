@@ -1,3 +1,1 @@
-*.js linguist-language=JavaScript
-*.css linguist-language=CSS
 *.html linguist-detectable=false
