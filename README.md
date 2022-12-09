@@ -9,7 +9,7 @@ Adiptal Editor is an iframe-based WYSIWYG Editor built on JavaScript. With advan
 
 [Documentation](https://adiptal.com/documentation/)
 
-[Demo](https://adiptal.com/demo/)
+[Demo Website](https://adiptal.com/demo/)
 
 [How To Use Guide](https://www.youtube.com/playlist?list=PLTR1zO3RRgspiOlbakMG19eYSeRD7CArr)
 
